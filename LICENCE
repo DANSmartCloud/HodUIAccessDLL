@@ -1,0 +1,75 @@
+HodTech Strong Copyleft License v1.0 (HSLC-1.0)
+
+Copyright © 2025 HoCloud Technology Studio
+Everyone is permitted to copy and distribute verbatim copies of this license document.
+
+PREAMBLE
+This license guarantees open-source freedoms with strong copyleft protection and intentional license incompatibility. It combines AGPLv3-style network provisions with a delayed source release mechanism to maintain project integrity while fully complying with the Open Source Definition.
+
+TERMS AND CONDITIONS
+
+0. Definitions
+   - "Work" means the original licensed software, including its source code.
+   - "Derivative Work" means any modification, translation, or adaptation under copyright law.
+   - "License" means this HodTech Strong Copyleft License.
+   - "You" means any licensee exercising rights under this License.
+   - "Combined Work" means a work that combines the Work or Derivative Work with other material under different licensing terms.
+   - "Corresponding Source" means all source code needed to generate, install, and run the Work.
+
+1. Copyleft Grant
+   You are granted permission to use, reproduce, modify, and distribute the Work and Derivative Works, provided:
+   a) You make complete Corresponding Source publicly accessible without authentication
+   b) You license all Derivative Works under this identical License (HSLC-1.0)
+   c) You preserve all copyright and legal notices
+   d) You provide clear attribution to the original Work
+
+2. Network Interaction Provision
+   a) Any public use of the Work or Derivative Work through a computer network, 
+      including SaaS, API services, or remote execution, constitutes distribution.
+   b) For such networked distribution, You must provide all interacting users:
+      i) Immediate access to the complete Corresponding Source
+      ii) Instructions for obtaining the source at no charge
+   c) This provision applies regardless of whether network interaction is primary or incidental.
+
+3. Patent Grant
+   a) Contributors grant You a royalty-free, worldwide, non-exclusive patent license for the Work.
+   b) This patent license terminates automatically if You initiate patent litigation 
+      (excluding counterclaims) against any contributor.
+
+4. Delayed Source Release (Incompatibility Mechanism)
+   When creating or distributing a Combined Work:
+   a) You must release the entire Combined Work's Corresponding Source under this License 
+      within 12 months of first distribution.
+   b) Failure to comply automatically terminates all rights under this License.
+   c) This obligation applies regardless of the proportion of licensed code in the Combined Work.
+   d) Source release must satisfy all requirements of Section 1.
+
+5. Termination
+   a) Your rights terminate automatically upon material violation of this License.
+   b) Downstream recipients retain rights if compliant at the time of receipt.
+   c) Reinstatement requires written permission from all copyright holders.
+
+6. Warranty & Liability
+   THIS WORK IS PROVIDED "AS IS" WITHOUT WARRANTIES. ALL LIABILITY IS EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+7. Severability
+   If any provision is invalid or unenforceable, the remaining terms stay in effect. 
+   Invalid clauses shall be replaced with valid provisions that match the original intent.
+
+8. License Compatibility
+   This license is incompatible with:
+   a) Any license prohibiting the Delayed Source Release obligation (Section 4)
+   b) Any license requiring automatic relicensing or additional patent retaliation clauses
+   c) Any license that cannot coexist with Section 4 requirements
+
+9. No Sublicensing
+   You may not offer the Work under different terms. All distributions must be governed solely by HSLC-1.0.
+
+10. License Version
+    This is version 1.0. Future versions may be published at HoCloudTechnologyStudio's website. 
+    Work licensed under v1.0 remains governed by these terms.
+
+-- Required Source File Notice --
+© 2025 HoCloud Technology Studio
+Licensed under HodTech Strong Copyleft License v1.0 (HSLC-1.0)
+Full license: https://dansmartcloud.github.io/HodTechLicence.licence | Combined works trigger delayed source release (Sec.4)

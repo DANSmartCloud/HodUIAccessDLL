@@ -1,0 +1,10 @@
+EXPORTS
+UIAccess_Initialize
+UIAccess_GetPermission
+UIAccess_CheckStatus
+UIAccess_Cleanup
+UIAccess_GetErrorMessage
+UIAccess_GetLastError
+UIAccess_PrepareAndRelaunchIfNeeded
+UIAccess_SetTopmost
+AboutThisDLL
