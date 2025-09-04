@@ -6,6 +6,8 @@ HodUIAccessDLL是由禾云信创工作室·云云探索者开发的一款窗口�
 
 适用于：Windows 7 及以上（建议 Windows 10/11），x86（32 位）进程，C/C++/易语言等调用者。
 
+原项目参考：[killtimer0/uiaccess: 通过System令牌获取UIAccess](https://github.com/killtimer0/uiaccess)
+
 ## 概述
 
 UIAccessDLL 将通过 System token 获取 UIAccess 权限”的逻辑封装为标准 DLL 接口，便于第三方程序调用，尝试让应用窗口获得 UI Access 层级，使 `SetWindowPos(HWND_TOPMOST)` 在更高的 Z 序生效。
@@ -207,7 +209,7 @@ _启动窗口.总在最前 ＝ 真
 
 ## 版本历史
 
-**v1.0** (2024-01-20)
+**v1.0** (2025-09-04)
 
 - 初始版本发布
 - 支持基本的UI Access权限获取
