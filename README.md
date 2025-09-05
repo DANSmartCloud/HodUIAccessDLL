@@ -1,4 +1,4 @@
-# 禾云信创 HodUIAccessDLL 使用指南
+# HodUIAccessDLL
 
 HodUIAccessDLL是由禾云信创工作室·云云探索者开发的一款窗口超级置顶DLL，简称UIAccessDLL。
 
@@ -37,7 +37,7 @@ UIAccessDLL/
 ├── TestDLL.c              # C语言测试程序
 ├── HodSuperTopEC.e        # 易语言模块源码
 ├── TestDLL.exe            # 测试程序可执行文件
-├── build.bat              # 编译脚本
+├── build_all.bat              # 编译脚本
 └── README.md              # 本说明文档
 ```
 
