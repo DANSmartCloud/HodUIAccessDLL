@@ -37,7 +37,7 @@ UIAccessDLL/
 ├── TestDLL.c              # C语言测试程序
 ├── HodSuperTopEC.e        # 易语言模块源码
 ├── TestDLL.exe            # 测试程序可执行文件
-├── build_all.bat              # 编译脚本
+├── build_all.bat          # 编译脚本
 └── README.md              # 本说明文档
 ```
 
